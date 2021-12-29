@@ -1,6 +1,7 @@
 
 
 
+<img src="https://github-readme-stats.vercel.app/api?username=adityandar&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=adityandar&theme=blueberry_duo"/>
 <!--
 **adityandar/adityandar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,4 +18,3 @@ Here are some ideas to get you started:
 -->
 Hi! Welcome to my page!
 
-<img src="https://github-readme-stats.vercel.app/api?username=adityandar&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=adityandar&theme=blueberry_duo"/>
