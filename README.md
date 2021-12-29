@@ -1,7 +1,4 @@
 
-<img src="https://github-readme-stats.vercel.app/api?username=adityandar&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=adityandar&theme=blueberry_duo"/>
-|---|---|
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityandar&layout=compact&theme=github_dark"/>|
 
 
 <!--
@@ -18,3 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi! Welcome to my page!
+
+<img src="https://github-readme-stats.vercel.app/api?username=adityandar&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=adityandar&theme=blueberry_duo"/>
