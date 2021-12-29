@@ -1,7 +1,3 @@
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityandar&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
-
-[![Adityandar's GitHub stats](https://github-readme-stats.vercel.app/api?username=adityandar&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <img src="https://github-readme-stats.vercel.app/api?username=adityandar&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=adityandar&theme=blueberry_duo"/>
 |---|---|
