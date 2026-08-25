@@ -1,9 +1,5 @@
 
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=adityandar&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=adityandar&theme=blueberry_duo"/>
---|--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityandar&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Adityandar's GitHub stats](https://github-stats-extended.vercel.app/api?username=adityandar&&show_icons=true&count_private=true&theme=github_dark)](https://github.com/stats-organization/github-stats-extended)
 <!--
 **adityandar/adityandar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
